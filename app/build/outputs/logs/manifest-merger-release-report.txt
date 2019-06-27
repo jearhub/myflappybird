@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\007d9e185b73eca4504f7c4e435decea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\790bd105982c2e0d3710e9d6f2464364\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\e9ef818413e3bea620e678c1f7f8de97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\062626c8a04bf99a58ba4ee5683501e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b533066a7003ea2210463b45dab3c7ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\47111be9ddc698ce6358b5908b854e1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\768a78e89ca774d0cd4282f4c39e2b97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\ccee44019b6ebf6701a65a3a7c008af7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b34eb5fbde865a3cd15acd2080ae0e31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\f61d1d39f05631455ce27ce16fb545bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\2861ed40faed7e48fd99297ae883f9a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\7fb31d88c0810b2e9f34fe4f34a94669\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\e5c08b28c135318b39c04cb01a750fa3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\20b994fd643594587e3e1a36b33b96b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\9ca17fce5bdd6595d77447b015b0852f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\d8f4c4138480c86708bbcfb40621d597\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\2f7a9963af3c92277a299a538035c8a3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\43771778ecc10ec4f196b6887406fdee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b882243f6832dc431676b9e52d402b2f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b29194b60d43f24a0f4ca53c50dcf3a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\6b143c34cd051eccd20e31bb37d35959\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b896f1c287d55af782cbd58eb7441c1f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b3aa8bd857070f86adce5550c0005399\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\1a6b453378b9d1dd01aae97b59e0a3e5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\a73d5d8f0df1f7e9f181eb41c82b97cf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\6d3c55e0cc9420f9c4608ee6c3dd2c8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\d1c7401b52ca46227b19b4391258f4f9\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\790bd105982c2e0d3710e9d6f2464364\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\790bd105982c2e0d3710e9d6f2464364\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\d8f4c4138480c86708bbcfb40621d597\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\d8f4c4138480c86708bbcfb40621d597\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\2f7a9963af3c92277a299a538035c8a3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\2f7a9963af3c92277a299a538035c8a3\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\d8f4c4138480c86708bbcfb40621d597\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:7:9-42
+	android:allowBackup
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.jearhub.android.myflappybird.MainActivity
+ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:screenOrientation
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:14:13-49
+	android:configChanges
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:13:13-63
+	android:name
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.jearhub.android.myflappybird.GameActivity
+ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:21:9-22:20
+	android:name
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:21:19-47
+activity#com.jearhub.android.myflappybird.GameOver
+ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:23:9-26:20
+	android:screenOrientation
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:25:13-49
+	android:configChanges
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:24:13-63
+	android:name
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml:23:19-43
+uses-sdk
+INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\007d9e185b73eca4504f7c4e435decea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\007d9e185b73eca4504f7c4e435decea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\790bd105982c2e0d3710e9d6f2464364\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\790bd105982c2e0d3710e9d6f2464364\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\e9ef818413e3bea620e678c1f7f8de97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\e9ef818413e3bea620e678c1f7f8de97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\062626c8a04bf99a58ba4ee5683501e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\062626c8a04bf99a58ba4ee5683501e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b533066a7003ea2210463b45dab3c7ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b533066a7003ea2210463b45dab3c7ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\47111be9ddc698ce6358b5908b854e1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\47111be9ddc698ce6358b5908b854e1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\768a78e89ca774d0cd4282f4c39e2b97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\768a78e89ca774d0cd4282f4c39e2b97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\ccee44019b6ebf6701a65a3a7c008af7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\ccee44019b6ebf6701a65a3a7c008af7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b34eb5fbde865a3cd15acd2080ae0e31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b34eb5fbde865a3cd15acd2080ae0e31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\f61d1d39f05631455ce27ce16fb545bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\f61d1d39f05631455ce27ce16fb545bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\2861ed40faed7e48fd99297ae883f9a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\2861ed40faed7e48fd99297ae883f9a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\7fb31d88c0810b2e9f34fe4f34a94669\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\7fb31d88c0810b2e9f34fe4f34a94669\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\e5c08b28c135318b39c04cb01a750fa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\e5c08b28c135318b39c04cb01a750fa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\20b994fd643594587e3e1a36b33b96b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\20b994fd643594587e3e1a36b33b96b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\9ca17fce5bdd6595d77447b015b0852f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\9ca17fce5bdd6595d77447b015b0852f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\d8f4c4138480c86708bbcfb40621d597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\d8f4c4138480c86708bbcfb40621d597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\2f7a9963af3c92277a299a538035c8a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\2f7a9963af3c92277a299a538035c8a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\43771778ecc10ec4f196b6887406fdee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\43771778ecc10ec4f196b6887406fdee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b882243f6832dc431676b9e52d402b2f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b882243f6832dc431676b9e52d402b2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b29194b60d43f24a0f4ca53c50dcf3a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b29194b60d43f24a0f4ca53c50dcf3a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\6b143c34cd051eccd20e31bb37d35959\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\6b143c34cd051eccd20e31bb37d35959\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b896f1c287d55af782cbd58eb7441c1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b896f1c287d55af782cbd58eb7441c1f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b3aa8bd857070f86adce5550c0005399\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\b3aa8bd857070f86adce5550c0005399\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\1a6b453378b9d1dd01aae97b59e0a3e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\1a6b453378b9d1dd01aae97b59e0a3e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\a73d5d8f0df1f7e9f181eb41c82b97cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\a73d5d8f0df1f7e9f181eb41c82b97cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\6d3c55e0cc9420f9c4608ee6c3dd2c8b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\6d3c55e0cc9420f9c4608ee6c3dd2c8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\d1c7401b52ca46227b19b4391258f4f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\jearh\.gradle\caches\transforms-2\files-2.1\d1c7401b52ca46227b19b4391258f4f9\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jearh\Documents\MyFlappyBird\app\src\main\AndroidManifest.xml
