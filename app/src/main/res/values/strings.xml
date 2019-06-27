@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFlappyBird</string>
+    <string name="restart">RESTART</string>
+    <string name="todo">TODO</string>
+    <string name="personal_best">Personal Best:</string>
+    <string name="textview">TextView</string>
+    <string name="score">Score:</string>
+    <string name="exit">EXIT</string>
+</resources>
